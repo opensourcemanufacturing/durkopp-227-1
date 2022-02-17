@@ -24,4 +24,7 @@ OTHER VIDEOS:
 
 - Threading the spool: https://youtu.be/gfee-sLqm2A
 
+----
+
+US ARMY MANUAL on 111w155 type sewing machines  https://archive.org/details/TM10-3530-202-24/page/n133/mode/2up
 
