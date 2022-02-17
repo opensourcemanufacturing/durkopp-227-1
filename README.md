@@ -15,8 +15,8 @@ Some information on [this post](https://leatherworker.net/forum/topic/95297-durk
 VIDEOS: by Uwe Gross
 - [Check tension spring Adjustments](https://youtu.be/XicwSGPaYiA)
 - [Checking feed dog lifting fork gap](https://www.youtube.com/watch?v=jFEsf6N76ig)
-- [Adjust Hook Timing Consew 225](https://www.youtube.com/watch?v=1wNBPX8i524) 
-- [Adler 167 Hook Removal and Installation](https://youtu.be/CfkGrz3OugA)
+- [Adjust Hook Timing](https://www.youtube.com/watch?v=1wNBPX8i524) 
+- [Hook Removal and Installation](https://youtu.be/CfkGrz3OugA)
 
 
 OTHER VIDEOS:
