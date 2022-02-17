@@ -8,11 +8,20 @@ Personal repo for the durkopp 227-1 sewing machine knowlagebase
 
 Some information on [this post](https://leatherworker.net/forum/topic/95297-durkopp-adler-239-125-missing-oil-pan-timing/) points to alternative machines and videos for information on setting the correct timing [(Consew 225 Hook Timing by Uwe Grosse)](https://www.youtube.com/watch?v=1wNBPX8i524) 
 
-"Needle hook timing values are the same as for the Singer 111 - partially you can use a Singer 111 manual for this machine thought they have a different stitch length adjuster and so forth but they share a lot of parts which are interchangeable" -> according to Constabulary in leatherworker.net forum
+"Needle hook timing values are the same as for the Singer 111w155 - partially you can use a Singer 111 manual for this machine thought they have a different stitch length adjuster and so forth but they share a lot of parts which are interchangeable" -> according to Constabulary in leatherworker.net forum
 
-VIDEOS:
-- [Adler 167 Hook Removal and Installation](https://youtu.be/CfkGrz3OugA) by Uwe Grosse
-- [Consew 225 Hook Timing](https://www.youtube.com/watch?v=1wNBPX8i524) by Uwe Grosse
+[This video](https://youtu.be/K1XJ3wqW_VI) shows how similar the durkopp 227-1 is to the Singer 111w155 
+
+VIDEOS: by Uwe Gross
+- [Check tension spring Adjustments](https://youtu.be/XicwSGPaYiA)
+- [Checking feed dog lifting fork gap](https://www.youtube.com/watch?v=jFEsf6N76ig)
+- [Adjust Hook Timing Consew 225](https://www.youtube.com/watch?v=1wNBPX8i524) 
+- [Adler 167 Hook Removal and Installation](https://youtu.be/CfkGrz3OugA)
+
+
+OTHER VIDEOS:
+- [111 replace timing belt](https://www.youtube.com/watch?v=TIxQViDgL1c)
+
 - Threading the spool: https://youtu.be/gfee-sLqm2A
 
 
