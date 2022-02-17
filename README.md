@@ -11,7 +11,8 @@ Some information on [this post](https://leatherworker.net/forum/topic/95297-durk
 "Needle hook timing values are the same as for the Singer 111 - partially you can use a Singer 111 manual for this machine thought they have a different stitch length adjuster and so forth but they share a lot of parts which are interchangeable" -> according to Constabulary in leatherworker.net forum
 
 VIDEOS:
-- [Consew 225 Hook Timing by Uwe Grosse](https://www.youtube.com/watch?v=1wNBPX8i524) 
+- [Adler 167 Hook Removal and Installation](https://youtu.be/CfkGrz3OugA) by Uwe Grosse
+- [Consew 225 Hook Timing](https://www.youtube.com/watch?v=1wNBPX8i524) by Uwe Grosse
 - Threading the spool: https://youtu.be/gfee-sLqm2A
 
 
