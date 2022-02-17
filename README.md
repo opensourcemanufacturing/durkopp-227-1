@@ -9,6 +9,7 @@ Personal repo for the durkopp 227-1 sewing machine knowlagebase
 Some information on [this post](https://leatherworker.net/forum/topic/95297-durkopp-adler-239-125-missing-oil-pan-timing/) points to alternative machines and videos for information on setting the correct timing [(Consew 225 Hook Timing by Uwe Grosse)](https://www.youtube.com/watch?v=1wNBPX8i524) 
 
 VIDEOS:
+- [Consew 225 Hook Timing by Uwe Grosse](https://www.youtube.com/watch?v=1wNBPX8i524) 
 - Threading the spool: https://youtu.be/gfee-sLqm2A
 
 
