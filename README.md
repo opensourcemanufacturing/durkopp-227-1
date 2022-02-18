@@ -23,6 +23,7 @@ OTHER VIDEOS:
 - [111 replace timing belt](https://www.youtube.com/watch?v=TIxQViDgL1c)
 
 - Threading the spool: https://youtu.be/gfee-sLqm2A
+- [10 tips for better leather sewing](https://youtu.be/iQQrgG_etoQ)
 - https://youtu.be/lbhWnIwu8rk
 
 ----
