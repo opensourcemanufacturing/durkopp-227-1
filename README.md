@@ -36,6 +36,7 @@ US ARMY MANUAL on 111w155 type sewing machines  https://archive.org/details/TM10
 
 ----
 
-Reference from a newer durkopp machine of the correct looping motion - https://youtu.be/Sjz7fzn5tv8?t=142
+- Reference from a newer durkopp machine of the correct looping motion: https://youtu.be/Sjz7fzn5tv8?t=142
+- My durkopp looping after timing and hook tuning: https://youtu.be/j6Z499rgOgA
 
 
