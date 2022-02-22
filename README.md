@@ -34,3 +34,8 @@ OTHER VIDEOS:
 
 US ARMY MANUAL on 111w155 type sewing machines  https://archive.org/details/TM10-3530-202-24/page/n133/mode/2up
 
+----
+
+Reference from a newer durkopp machine of the correct looping motion - https://youtu.be/Sjz7fzn5tv8?t=142
+
+
