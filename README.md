@@ -29,6 +29,7 @@ OTHER VIDEOS:
 - Threading the spool: https://youtu.be/gfee-sLqm2A
 - [10 tips for better leather sewing](https://youtu.be/iQQrgG_etoQ)
 - https://youtu.be/lbhWnIwu8rk
+- [what size thread and needles can be used on industrial machines](https://youtu.be/EJlrjWJKdTE)
 
 ----
 
